@@ -4,7 +4,7 @@
 
     <groupId>jetbrains</groupId>
     <artifactId>maven-project</artifactId>
-    <version>1.0.0-gitflowtest-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
