@@ -45,7 +45,7 @@
                           ;-)
                         -->
                         <developBranchName>dvlp</developBranchName>
-                        <!-- You can also customize your tag prefixes -->
+                        <!-- You can also customize your tag prefixes test -->
                         <versionTagPrefix>rev-</versionTagPrefix>
                     </flowInitContext>
                 </configuration>
